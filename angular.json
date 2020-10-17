@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "flightsApp"
+    }
+  },
+  "defaultProject": "flightsApp",
+  "cli": {
+    "analytics": false
+  }
 }
